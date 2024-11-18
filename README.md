@@ -25,3 +25,9 @@ My skills
 - 🤔 I’m looking to connect with fellow developers and explore opportunities for collaborative project
 - 💬 Ask me about ...Anything related to Laravel Web development.
 - 📫 How to reach me: ishratzahan091@gmail.com
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishrat-zahan&show_icons=true&locale=en&layout=compact" alt="ishrat-zahan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishrat-zahan&show_icons=true&locale=en" alt="ishrat-zahan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishrat-zahan&" alt="ishrat-zahan" /></p>
