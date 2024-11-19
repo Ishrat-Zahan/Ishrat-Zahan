@@ -13,18 +13,22 @@ Highly skilled and results-driven Software Developer with over one year of exper
 </p>
 
 <p align="center">
-<h1></h1>
-My skills
+---
+## 🧑‍💻 About Me
+
+- 💼 Software Developer at Radisson Digital Technologies
+- 🌍 **Portfolio:** [https://ishrat-zahan.github.io/ishrat_dev/](https://ishrat-zahan.github.io/ishrat_dev/)
+- 🤔 I’m looking to connect with fellow developers and explore opportunities for collaborative project
+- 💬 Ask me about ...Anything related to Laravel Vue Web development.
+- 📫 How to reach me: ishratzahan091@gmail.com
+
+---
+
+## 🛠️ Tech Stack
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,vue,angular,jquery,react,php,cs,js,html,css,bootstrap,tailwind" />
   </a>
 </p>
-
-- 🌱 I’m currently working :Advanced techniques in React.js,Node.js,MongoDB
-- 👯 I’m looking to collaborate on web based project
-- 🤔 I’m looking to connect with fellow developers and explore opportunities for collaborative project
-- 💬 Ask me about ...Anything related to Laravel Web development.
-- 📫 How to reach me: ishratzahan091@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishrat-zahan&show_icons=true&locale=en&layout=compact" alt="ishrat-zahan" /></p>
 
