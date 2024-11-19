@@ -1,8 +1,9 @@
+![I am full-stack web development.](https://media.licdn.com/dms/image/v2/D5616AQHtqukOOC9kQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729968577043?e=1737590400&v=beta&t=8ui4Qqk3q4eximddYKf2PxeX-tv_tJZ860HjUVXbI_E)
+
 ### Hi there 👋, I am Ishrat Zahan
 
 I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.js**. I build robust, scalable web applications and responsive websites, delivering clean, efficient code and top-tier performance.
 
-![I am full-stack web development.](https://media.licdn.com/dms/image/v2/D5616AQHtqukOOC9kQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729968577043?e=1737590400&v=beta&t=8ui4Qqk3q4eximddYKf2PxeX-tv_tJZ860HjUVXbI_E)
 
 ---
 
@@ -10,13 +11,9 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 
 - 💼 **Software Developer** at **Radisson Digital Technologies**
 - 🌍 **Portfolio:** [Visit my portfolio](https://ishrat-zahan.github.io/ishrat_dev/)
-- 🤔 I’m looking to connect with fellow developers and explore opportunities for collaborative projects
-- 💬 **Ask me about:** Laravel, Vue.js, or anything related to web development
 - 📫 **Email:** [ishratzahan091@gmail.com](mailto:ishratzahan091@gmail.com)
-- 📫 **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/ishratzahan09/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
-  </a>
+- 📫 **LinkedIn:**  [LinkedIn]([https://ishrat-zahan.github.io/ishrat_dev/](https://www.linkedin.com/in/ishratzahan09/))
+ 
 
 ---
 
